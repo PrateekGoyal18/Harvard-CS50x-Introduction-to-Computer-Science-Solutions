@@ -26,7 +26,7 @@ int main(void)
         }
 
         // Gap
-        printf(" ");
+        printf("  ");
 
         // Right hashes
         for(int j=0; j<i; j++)
